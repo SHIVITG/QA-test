@@ -25,12 +25,6 @@ import warnings
 warnings.filterwarnings('ignore')
 
 
-# In[ ]:
-
-
-get_ipython().system('pip install torch --user')
-
-
 # # Dowload Nltk Data
 
 # In[2]:
